@@ -4,7 +4,7 @@ Navigates to the specified entity list, entity record, or HTML web resource.
 
 MS docc https://docs.microsoft.com/en-us/powerapps/developer/model-driven-apps/clientapi/reference/xrm-navigation/navigateto
 
-#OnLookupTagClick Event (Client API reference)
+# OnLookupTagClick Event (Client API reference)
 
 This event occurs when the user clicks the tag in a lookup control.
 
